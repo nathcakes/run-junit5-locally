@@ -35,6 +35,7 @@ In the makefile, you can add the below flags to the runTests command, there are 
 - --reports-dir=DIR (Creates a report and stores it in the DIR provided)
 - --fail-if-no-tests (If there are no tests, it will exit with a status code 2)
 - --details=MODE (Available modes are none,summary,flat,tree,verbose) default is tree.
+
 See [here](https://junit.org/junit5/docs/current/user-guide/#running-tests)for additional flags you can pass to the runTests command.
 
 
